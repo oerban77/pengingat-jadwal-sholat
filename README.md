@@ -11,7 +11,7 @@ jadi jadwalnya selalu mengikuti tanggal dan kotamu. Kalau WiFi/API gagal,
 dipakai jadwal bawaan (Kota Bandung) yang ada di sketch.
 
 Video penjelasan (60 detik):
-https://youtube.com/shorts/ — (link menyusul setelah upload)
+https://youtube.com/shorts/sU5DXxiQ_f4
 
 ## Komponen
 
